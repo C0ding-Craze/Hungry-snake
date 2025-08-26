@@ -62,13 +62,13 @@ python main.py
 
 ---
 
-## ⚙️ Configuration  
+## Configuration  
 - **Assets:** Store visuals in `Visuals/` and sounds in `Sounds/`.  
 - **Settings:** Modify `block_size`, `block_number`, or `SCREEN_UPDATE` delay in `main.py` for custom grid sizes or game speed.  
 
 ---
 
-## 🖥 Technologies Used  
+## Technologies Used  
 - [Python 3](https://www.python.org/)   
 - [Pygame](https://www.pygame.org/news)  
 
