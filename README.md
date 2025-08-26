@@ -12,13 +12,18 @@ The objective is simple: control the snake, eat apples, grow longer, and survive
 - Game over + restart support  
 
 ---
+## Screenshot  
+
+![Hungry Snake Screenshot](screenshot.png)
+
+---
 
 ## 📑 Table of Contents  
 1. [Installation](#-installation)  
 2. [Usage](#-usage)  
-3. [Configuration](#-configuration)  
-4. [Technologies Used](#-technologies-used)  
-5. [Project Structure](#-project-structure)
+3. [Configuration](#configuration)
+4. [Technologies Used](#technologies-used) 
+5. [Project Structure](#project-structure)
 6. [Contributing](#-contributing)  
 7. [License](#-license)  
 8. [Contact](#-contact)   
@@ -62,13 +67,13 @@ python main.py
 
 ---
 
-## ⚙️ Configuration  
+## Configuration  
 - **Assets:** Store visuals in `Visuals/` and sounds in `Sounds/`.  
 - **Settings:** Modify `block_size`, `block_number`, or `SCREEN_UPDATE` delay in `main.py` for custom grid sizes or game speed.  
 
 ---
 
-## 🖥 Technologies Used  
+## Technologies Used  
 - [Python 3](https://www.python.org/)   
 - [Pygame](https://www.pygame.org/news)  
 
