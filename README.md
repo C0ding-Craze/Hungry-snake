@@ -16,9 +16,9 @@ The objective is simple: control the snake, eat apples, grow longer, and survive
 ## 📑 Table of Contents  
 1. [Installation](#-installation)  
 2. [Usage](#-usage)  
-3. [Configuration](#-configuration)  
-4. [Technologies Used](#-technologies-used)  
-5. [Project Structure](#-project-structure)
+3. [Configuration](#-Configuration)  
+4. [Technologies Used](#-technologies-used) 
+5. [Project Structure](#-Project-Structure)
 6. [Contributing](#-contributing)  
 7. [License](#-license)  
 8. [Contact](#-contact)   
