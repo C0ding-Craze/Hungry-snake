@@ -18,8 +18,7 @@ pygame.display.set_caption("HUNGRY SNAKE")
 game_icon = pygame.image.load("Visuals/Icon.png")
 pygame.display.set_icon(game_icon)
 
-score_font = pygame.font.SysFont(None, 30) 
-final_score_font = pygame.font.SysFont("Comic Sans MS", 120)
+score_font = pygame.font.SysFont(None, 30)  # Game font
 
 class BACKGROUND:
 

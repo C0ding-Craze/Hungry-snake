@@ -14,7 +14,7 @@ The objective is simple: control the snake, eat apples, grow longer, and survive
 ---
 ## Screenshot  
 
-![Hungry Snake Screenshot](screenshot.png)
+![Hungry Snake Screenshot](Output_screenshot.png)
 
 ---
 
