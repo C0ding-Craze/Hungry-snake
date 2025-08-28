@@ -9,59 +9,18 @@ The objective is simple: control the snake, eat apples, grow longer, and survive
 - Smooth graphics with a custom background and snake sprites  
 - Sound effects for apple bites 🎵  
 - Score tracking system  
-- Game over + restart support  
+- Game over + restart support
+
+- ### Controls  
+- ⬆️ **Up Arrow** → Move Up  
+- ⬇️ **Down Arrow** → Move Down  
+- ⬅️ **Left Arrow** → Move Left  
+- ➡️ **Right Arrow** → Move Right 
 
 ---
 ## Screenshot  
 
 ![Hungry Snake Screenshot](Output_screenshot.png)
-
----
-
-## 📑 Table of Contents  
-1. [Installation](#-installation)  
-2. [Usage](#-usage)  
-3. [Configuration](#configuration)
-4. [Technologies Used](#technologies-used) 
-5. [Project Structure](#project-structure)
-6. [Contact](#-contact)
-   
----
-
-## 🛠 Installation  
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/C0ding-Craze/Hungry-snake.git
-cd hungry-snake
-```
-
-2. Create and activate a virtual environment (optional but recommended):  
-```bash
-python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate.ps1      # On Windows
-```
-
-3. Install dependencies:  
-```bash
-pip install pygame
-```
-
----
-
-## 🎮 Usage  
-
-Run the game with:  
-```bash
-python main.py
-```
-
-### Controls  
-- ⬆️ **Up Arrow** → Move Up  
-- ⬇️ **Down Arrow** → Move Down  
-- ⬅️ **Left Arrow** → Move Left  
-- ➡️ **Right Arrow** → Move Right  
 
 ---
 
