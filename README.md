@@ -11,7 +11,7 @@ The objective is simple: control the snake, eat apples, grow longer, and survive
 - Score tracking system  
 - Game over + restart support
 
-- ### Controls  
+ ### Controls  
 - ⬆️ **Up Arrow** → Move Up  
 - ⬇️ **Down Arrow** → Move Down  
 - ⬅️ **Left Arrow** → Move Left  
