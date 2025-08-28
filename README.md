@@ -24,10 +24,8 @@ The objective is simple: control the snake, eat apples, grow longer, and survive
 3. [Configuration](#configuration)
 4. [Technologies Used](#technologies-used) 
 5. [Project Structure](#project-structure)
-6. [Contributing](#-contributing)  
-7. [License](#-license)  
-8. [Contact](#-contact)   
-
+6. [Contact](#-contact)
+   
 ---
 
 ## 🛠 Installation  
@@ -95,21 +93,6 @@ python main.py
 └── Sounds/          # Directory containing game sounds
     └── Bite.mp3
 ```
-
----
-
-## 🤝 Contributing  
-Contributions are welcome!  
-1. Fork the repository  
-2. Create a new branch (`git checkout -b feature-branch`)  
-3. Commit changes (`git commit -m "Add feature"`)  
-4. Push to your branch (`git push origin feature-branch`)  
-5. Open a Pull Request  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
 ---
 
