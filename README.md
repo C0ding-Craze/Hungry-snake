@@ -5,13 +5,13 @@
 **Hungry Snake** is a modern take on the classic Snake Game built with **Pygame**.  
 The objective is simple: control the snake, eat apples, grow longer, and survive as long as possible without colliding with yourself or the walls.  
 
- Features:  
+###Features:  
 - Smooth graphics with a custom background and snake sprites  
 - Sound effects for apple bites 🎵  
 - Score tracking system  
 - Game over + restart support
 
- ### Controls  
+### Controls  
 - ⬆️ **Up Arrow** → Move Up  
 - ⬇️ **Down Arrow** → Move Down  
 - ⬅️ **Left Arrow** → Move Left  
