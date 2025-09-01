@@ -55,6 +55,12 @@ The objective is simple: control the snake, eat apples, grow longer, and survive
 
 ---
 
+## License
+
+This project is not for commercial use.
+
+---
+
 ## 👤 Contact  
 - **Author:** Abdul-Rehamn  
 - **GitHub:** [C0ding-Craze](https://github.com/C0ding-Craze)  
